@@ -11,7 +11,7 @@ public class Reklam : MonoBehaviour
     private InterstitialAd interstitialAd;
     public GameObject ReklamButton;
 
-    public string adUnitId = "ca-app-pub-6760811376462562/4827968467";
+    public string adUnitId = "ca-app-pub-***********************";
 
     private void Start()
     {
